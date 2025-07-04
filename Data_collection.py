@@ -4,7 +4,7 @@ import time
 
 # Reddit API Credentials
 reddit = praw.Reddit(
-    client_id="Place your client TD",
+    client_id="Place your client ID",
     client_secret="Palce your client secret",
     user_agent="Your Useragent name",
     username="Your Username",
